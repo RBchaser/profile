@@ -58,7 +58,7 @@ body{
 .container{
     background-color:white;
     width:800px;
-    margin:0 auto 300px auto;
+    margin:0 auto;
     padding:30px 30px 60px 30px;
     border-radius:0 0 10px 10px;
 }
